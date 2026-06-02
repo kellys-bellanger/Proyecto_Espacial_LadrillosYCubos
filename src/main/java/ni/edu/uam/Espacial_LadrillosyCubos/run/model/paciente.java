@@ -3,6 +3,7 @@ package ni.edu.uam.Espacial_LadrillosyCubos.run.model;
 
 import java.time.*;
 import javax.persistence.*;
+import org.openxava.annotations.*;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
