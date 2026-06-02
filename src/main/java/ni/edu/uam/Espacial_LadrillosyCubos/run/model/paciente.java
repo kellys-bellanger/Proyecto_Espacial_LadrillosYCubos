@@ -1,4 +1,4 @@
-package ni.edu.uam.Espacial_LadrillosyCubos.model;
+package ni.edu.uam.Espacial_LadrillosyCubos.run.model;
 
 
 import java.time.*;
