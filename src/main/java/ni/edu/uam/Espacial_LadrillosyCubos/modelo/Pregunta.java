@@ -1,4 +1,4 @@
-package ni.edu.uam.Espacial_LadrillosyCubos.run.model;
+package ni.edu.uam.Espacial_LadrillosyCubos.modelo;
 
 import javax.persistence.*;
 
@@ -8,7 +8,6 @@ import org.openxava.annotations.*;
 
 @Entity
 @Getter @Setter
-@View(members="imagenHtml; respuestaCorrecta")
 @View(members="numeroPregunta; imagen; opcionA, opcionB, opcionC, opcionD, opcionE; respuestaCorrecta")
 public class Pregunta {
 

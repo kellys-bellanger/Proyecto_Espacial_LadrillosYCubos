@@ -1,4 +1,4 @@
-package ni.edu.uam.Espacial_LadrillosyCubos.run.model;
+package ni.edu.uam.Espacial_LadrillosyCubos.modelo;
 
 
 import lombok.Getter;
