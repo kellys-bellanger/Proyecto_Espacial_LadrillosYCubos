@@ -1,4 +1,4 @@
-package ni.edu.uam.Espacial_LadrillosyCubos.run.model;
+package ni.edu.uam.Espacial_LadrillosyCubos.modelo;
 
 
 import java.time.*;
@@ -9,7 +9,6 @@ import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
-import org.openxava.annotations.*;
 
 @Entity
 @Setter
